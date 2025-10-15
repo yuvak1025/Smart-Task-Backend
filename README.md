@@ -1,6 +1,4 @@
 # SmartTask – Personal Task Management System
-# FRONTEND CODE LINK:
-- FrontendCode : https://github.com/yuvak1025/SmartTask-Frontend
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Business Description](#business-description)
