@@ -9,9 +9,7 @@
 - [Frontend](#frontend)
 - [APIs](#apis)
 - [How to Run](#how-to-run)
-- [Screenshots](#screenshots)
-- [Notes](#notes)
-
+  
 ---
 
 ## Project Overview
@@ -225,13 +223,6 @@ Common Issues:
 - Ensure await calls are inside async functions.
 - Match backend field names (due_date, priority) exactly.
 - Make sure TaskForm has export default TaskForm.
-
-## Screenshots
-- <img width="1892" height="857" alt="image" src="https://github.com/user-attachments/assets/5043140e-616d-4fbb-a391-327dd67d2ff8" />
-- <img width="681" height="456" alt="image" src="https://github.com/user-attachments/assets/aedd895d-4c88-4eb2-aff0-61922f36db3a" />
-- <img width="555" height="457" alt="image" src="https://github.com/user-attachments/assets/2b584940-cb37-46da-8700-0d90cc1bc1db" />
-
-
 
 
 
